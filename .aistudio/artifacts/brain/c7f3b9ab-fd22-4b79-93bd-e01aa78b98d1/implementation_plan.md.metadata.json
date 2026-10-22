@@ -1,0 +1,6 @@
+{
+  "summary":  "Updated implementation plan for the Interactive Parsing Audit Drawer and Deep Provenance Inspector. Addresses user-identified discrepancies in geometric metrics (Pd-C, bite angle, C=C), transition metal d-orbital occupancies (4d valence vs 3d core), and NMR/IR spectroscopic mode selection by providing exact line match tracing, coordinate atom reassignment, and frequency mode pickers.",
+  "updatedAt":  "2026-10-22T07:37:11.529545772Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "ORCA QChem Parser & CSV Agent",
+  "description": "Extract quantum chemistry parameters from raw ORCA output files into structured Table S3 datasets with AI validation and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
